@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# Local personal runs (may contain real numbers) — never commit.
+# Public demo map is sample_map.html (fictional 555 number only).
+my_location.html
