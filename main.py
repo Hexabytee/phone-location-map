@@ -4,8 +4,8 @@ Parses a phone number, shows carrier/region info, geocodes the region
 via OpenCage, and renders an interactive Folium map.
 
 Usage:
-    python main.py --phone "+918849086420"
-    python main.py --phone "+918849086420" --output my_location.html
+    python main.py --phone "+14155552671"
+    python main.py --phone "+14155552671" --output sample_map.html
 
 The OpenCage API key must be provided via the OPENCAGE_API_KEY
 environment variable (see .env.example). A legacy fallback reads the
